@@ -4,7 +4,7 @@
 
 <p align="left">Fascinated and passionate about software and web development. After working in customer service, decided to pursue profession that is more aligned with my personal goals and interests - learning, exploring, constant change, improvement and development.</p>
 
-<p align="left">Apart from coding, on spare time I work on creative projects: producing music, 3D modelling, practising or dabbling in UI/UX. <br /> Other things I also enjoy: cooking, fitness, hiking.</p>
+<p align="left">Apart from coding, on spare time I work on creative projects: producing music, 3D modelling or dabbling in UI/UX. <br /> Other things I also enjoy: cooking, fitness, hiking.</p>
 
 ###
 
