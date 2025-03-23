@@ -1,12 +1,4 @@
-<h1 align="left">Hello, World!</h1>
-
-###
-
-<p align="left">My name is Martynas Vrubliauskas and I'm a Web/.NET Full Stack Developer, from Vilnius, Lithuania.</p>
-
-###
-
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
 ###
 
