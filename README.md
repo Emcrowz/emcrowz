@@ -2,9 +2,11 @@
 
 ###
 
-<p align="left">Fascinated and passionate about software and web development. After working in customer service, decided to pursue profession that is more aligned with my personal goals and interests - learning, exploring and development.</p>
+<p align="left">Fascinated and passionate about software and web development. After working in customer service, decided to pursue profession and career in field that is more aligned with my personal goals and interests - learning, exploring and development.</p>
 
-<p align="left">Apart from coding, in my spare time I work on creative projects: producing music, 3D modelling and UI/UX. <br /> Other things I also enjoy: cooking, fitness, hiking.</p>
+<p align="left">Apart from coding, in my spare time I work on creative projects: <em>producing music</em>, <em>3D modelling</em> and <em>UI/UX</em>.</p> 
+
+<p align="left">Other things I also enjoy: <em>cooking</em>, <em>fitness</em>, <em>hiking</em>.</p>
 
 ###
 
@@ -16,7 +18,7 @@
 
 ###
 
-<h2 align="left">Primary technologies I use</h2>
+<h2 align="left">Primary tech stack</h2>
 
 ###
 
@@ -48,14 +50,14 @@
 
 ###
 
-<h2 align="left">Familiar with these technologies</h2>
+<h2 align="left">Other technologies I use</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="16" />
