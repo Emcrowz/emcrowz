@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">Fascinated and passionate about software, web and video game development. After working in customer service, decided to pursue profession and career in field that is more aligned with my personal goals and interests - learning, exploring and development.</p>
+<p align="left">Fascinated and passionate about software and web development. After working in customer service, decided to pursue profession and career in field that is more aligned with my personal goals and interests - learning, exploring and development.</p>
 
-<p align="left">Apart from coding, in my spare time I work on creative projects: <em>producing music</em>, <em>3D modelling</em> and <em>UI/UX</em>.</p> 
+<p align="left">On spare time exploring: <em>C/C++ and low-level programming</em>, <em>various fields of cyber security (still looking what interests me more)</em> and <em>Linux administration and management</em>.</p> 
 
 <p align="left">Other things I also enjoy: <em>cooking</em>, <em>fitness</em>, <em>hiking</em>.</p>
 
